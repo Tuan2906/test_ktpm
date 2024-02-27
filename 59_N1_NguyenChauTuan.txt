@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 - Main
 =======
 - Quang Truong nè
 >>>>>>> truong_562
+=======
+add nou dung vao main
+=======
+- Main
+>>>>>>> 2e7d06c224823e37f090184581cdca4492008164
+>>>>>>> 77d25c74345462471ebbc9a5371c54b8a4e36a3f
